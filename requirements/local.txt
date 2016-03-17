@@ -21,3 +21,4 @@ pytest-sugar==0.5.1
 djangorestframework==3.3.3
 nltk==3.2
 numpy==1.10.4
+Scrapy==1.0.5
