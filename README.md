@@ -1,3 +1,10 @@
+#How can we better understand the state of "access" in the world?
+
+
+With the enormous amount of data from a host of different organizations available on the Internet today, we now are able to gain new insights into the state of world health and understand patients like never before.
+
+How can we leverage public datasets and application programming interfaces (API) to build insights and visualizations on which diseases are most burdensome to patients, hospitals and global economies?
+
 # state_of_health
 
 set up your virtualenv with virtualenvwrapper
